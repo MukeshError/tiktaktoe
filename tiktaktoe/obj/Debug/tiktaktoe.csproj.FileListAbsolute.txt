@@ -1,0 +1,9 @@
+C:\Users\Public\Music\Sample Music\tiktaktoe\tiktaktoe\bin\Debug\tiktaktoe.exe.config
+C:\Users\Public\Music\Sample Music\tiktaktoe\tiktaktoe\bin\Debug\tiktaktoe.exe
+C:\Users\Public\Music\Sample Music\tiktaktoe\tiktaktoe\bin\Debug\tiktaktoe.pdb
+C:\Users\Public\Music\Sample Music\tiktaktoe\tiktaktoe\obj\Debug\tiktaktoe.csprojResolveAssemblyReference.cache
+C:\Users\Public\Music\Sample Music\tiktaktoe\tiktaktoe\obj\Debug\tiktaktoe.Properties.Resources.resources
+C:\Users\Public\Music\Sample Music\tiktaktoe\tiktaktoe\obj\Debug\tiktaktoe.csproj.GenerateResource.Cache
+C:\Users\Public\Music\Sample Music\tiktaktoe\tiktaktoe\obj\Debug\tiktaktoe.exe
+C:\Users\Public\Music\Sample Music\tiktaktoe\tiktaktoe\obj\Debug\tiktaktoe.pdb
+C:\Users\Public\Music\Sample Music\tiktaktoe\tiktaktoe\obj\Debug\tiktaktoe.TikTakToe.resources
